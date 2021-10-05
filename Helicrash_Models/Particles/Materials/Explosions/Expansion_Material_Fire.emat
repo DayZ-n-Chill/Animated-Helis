@@ -1,0 +1,13 @@
+Particle {
+ AlbedoMap "{8CD12DAA2613A121}Helicrash_Models/Particles/Sprites/fire.edds" 
+ Color 0 0 0 1
+ Diffuse 0.5255 0.5255 0.5255 1
+ Ambient 0 0 0 1
+ Emissive 1 1 1 0
+ Sort translucent
+ AlphaTest 0
+ BlendMode Additive_AlphaModulate
+ TileU 8
+ TileV 4
+ Softness 0.25
+}

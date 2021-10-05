@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{520BE503B06E1FC5}Helicrash_Models/Particles/Materials/World/Expansion_Material_Fog.emat"
+ Author "desktop-795a08b"
+ ChangeDate -1965725561
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

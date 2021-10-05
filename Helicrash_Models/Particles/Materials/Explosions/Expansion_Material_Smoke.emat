@@ -1,0 +1,12 @@
+Particle {
+ AlbedoMap "{CCC2BDC4ED4BE73C}Helicrash_Models/Particles/Sprites/smoke.edds" alpha 
+ Color 0 0 0 1
+ Diffuse 0 0 0 0
+ Ambient 0 0 0 1
+ NormalMap "{CE09BDE242263A16}Helicrash_Models/Particles/Sprites/Normals/smoke.edds" 
+ AlphaTest 0
+ TileU 2
+ TileV 2
+ DepthScale 4
+ CameraBlendFar 0.001
+}

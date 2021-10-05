@@ -1,0 +1,7 @@
+Particle {
+ AlbedoMap "{16E1385AEC17A4AC}Helicrash_Models/Particles/Sprites/water.edds" alpha 
+ Diffuse 0.5255 0.5255 0.5255 1
+ Sort translucent
+ ReceiveShadow 1
+ BlendMode Additive_AlphaModulate
+}

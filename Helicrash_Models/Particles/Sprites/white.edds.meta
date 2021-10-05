@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{41028461BB7B744E}Helicrash_Models/Particles/Sprites/white.edds"
+ Author "desktop-795a08b"
+ ChangeDate -654481273
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "white.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

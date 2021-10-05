@@ -1,0 +1,6 @@
+Particle {
+ AlbedoMap "{9BDE476E53F3C7AA}Helicrash_Models/Particles/Sprites/splash.edds" alpha 
+ Diffuse 0.5255 0.5255 0.5255 1
+ Emissive 1 1 1 0
+ Sort translucent
+}

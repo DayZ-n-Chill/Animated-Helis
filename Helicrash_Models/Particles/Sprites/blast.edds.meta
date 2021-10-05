@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8E840AC8F535971E}Helicrash_Models/Particles/Sprites/blast_wave.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1772464246
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "blast_wave.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{71A6259AA29D1AFA}Helicrash_Models/Particles/Materials/World/Expansion_Material_Ocean_Nice.emat"
+ Author "desktop-795a08b"
+ ChangeDate 586016911
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

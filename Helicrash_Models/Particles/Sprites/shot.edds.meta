@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5C963A1618B4CD72}Helicrash_Models/Particles/Sprites/fire_billowing.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1833298038
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "fire_billowing.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

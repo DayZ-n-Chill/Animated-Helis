@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{67179320079DBDB0}Helicrash_Models/Particles/Sprites/gravel.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1334667382
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "gravel.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

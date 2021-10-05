@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Helicrash_Models\data\hud_reticle.rvmat
+//Produced from mikero's Dos Tools Dll version 7.79
+//https://mikero.bytex.digital/Downloads
+//'now' is Sat Sep 26 21:15:19 2020 : 'file' last modified on Sat Sep 26 21:14:21 2020
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {100,12.5,12.5,1};
+diffuse[] = {0,0,0,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {1,0.125,0.125,1};
+specular[] = {0,0,0,0};
+specularPower = 1;
+renderFlags[] = {"NoZWrite","NoAlphaWrite","AddBlend"};
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

@@ -1,0 +1,4 @@
+//<'Helicrash_Models.pbo' properties via Mikero's dos tools, dll version 8.26>
+prefix=Helicrash_Models;
+//PboType=Arma Addon;
+//</properties>

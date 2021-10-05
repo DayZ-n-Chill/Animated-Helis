@@ -1,0 +1,4 @@
+Particle {
+ AlbedoMap "{41028461BB7B744E}Helicrash_Models/Particles/Sprites/white.edds" alpha 
+ Sort translucent
+}

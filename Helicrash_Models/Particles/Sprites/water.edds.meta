@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{16E1385AEC17A4AC}Helicrash_Models/Particles/Sprites/water.edds"
+ Author "desktop-795a08b"
+ ChangeDate -2106808202
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "water.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

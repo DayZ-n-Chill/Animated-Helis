@@ -1,0 +1,10 @@
+Particle {
+ AlbedoMap "{9AE939087240FB68}Helicrash_Models/Particles/Sprites/inferno.edds" alpha 
+ Color 0 0 0 1
+ Diffuse 0.5255 0.5255 0.5255 1
+ Ambient 0 0 0 1
+ Emissive 1 1 1 0
+ Sort translucent
+ BlendMode Additive_AlphaModulate
+ Softness 0.25
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{3D62DF5BA328C034}Helicrash_Models/Particles/Sprites/spark.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1083041910
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "spark.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

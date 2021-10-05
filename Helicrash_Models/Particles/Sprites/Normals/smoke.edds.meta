@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{CE09BDE242263A16}Helicrash_Models/Particles/Sprites/smoke2_nohq.edds"
+ Author "desktop-795a08b"
+ ChangeDate -1390909321
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "smoke2_nohq.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

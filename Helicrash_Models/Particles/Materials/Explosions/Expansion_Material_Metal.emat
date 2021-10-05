@@ -1,0 +1,9 @@
+Particle {
+ AlbedoMap "{2AF527D91EE689A4}Helicrash_Models/Particles/Sprites/metal.edds" 
+ Diffuse 0 0 0 0
+ Ambient 0 0 0 1
+ Sort translucent
+ AlphaTest 0
+ TileU 3
+ TileV 3
+}

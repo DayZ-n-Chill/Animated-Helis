@@ -1,0 +1,11 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Helicrash_Models\Particles\Materials\World\Data\Expansion_Material_Antiwater.rvmat
+//Produced from mikero's Dos Tools Dll version 7.79
+//https://mikero.bytex.digital/Downloads
+//'now' is Sat Sep 26 21:15:20 2020 : 'file' last modified on Sat Sep 26 21:14:25 2020
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+PixelShaderID = "CalmWater";
+VertexShaderID = "CalmWater";

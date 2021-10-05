@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{9AE939087240FB68}Helicrash_Models/Particles/Sprites/inferno.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1345710198
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "inferno.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

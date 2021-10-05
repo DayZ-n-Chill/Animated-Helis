@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0105FA7C516744F7}Helicrash_Models/Particles/Materials/World/Expansion_Material_Cloud.emat"
+ Author "3112"
+ ChangeDate 1111680636
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

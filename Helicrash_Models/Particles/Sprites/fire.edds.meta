@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8CD12DAA2613A121}Helicrash_Models/Particles/Sprites/fire.edds"
+ Author "desktop-795a08b"
+ ChangeDate -1116018569
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "fire.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

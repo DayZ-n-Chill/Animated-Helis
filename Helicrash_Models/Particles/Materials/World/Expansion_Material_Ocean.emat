@@ -1,0 +1,28 @@
+MatOceanOld {
+ Color 0.04 0.1 0.12 0
+ DeepMap "{0DE9ACA1E3D366FB}graphics/Textures/Water/sat_co.edds" 
+ DeepMapCoord 0 0 15384 15384
+ DepthScattering 0.8
+ NormalMap "{00043BD4DA5F1244}graphics/Textures/Water/dayzwater1_no.edds" 
+ NormalPower 0.25
+ NormalMapping 0.01
+ SunPower 256
+ SunInfluence 4
+ SunNormalMul 0.4
+ WaterExtinction 15
+ RefractScale 0.5
+ ChromAberation 0.1
+ CausticMap "{EA764AD7A6112284}graphics/Textures/Water/caustic.edds" 
+ Caustic 0.5
+ WetFloor 0.5
+ EnvironmentMap "{C458941836528F9F}graphics/Textures/Water/envOcean_co.edds" 
+ ReflectionColor 0.1 0.15 0.2 0.5
+ Fresnel 0.05
+ FresnelRange 0.44
+ FoamMap "{A3B149218D8C5200}graphics/Textures/Water/foam.edds" 
+ FoamTerrainBlend 0.5
+ FoamMapping 0.5
+ FoamMove 0.05
+ FoamPower 0.64
+ FoamColor 0.2667 0.2667 0.251 1
+}

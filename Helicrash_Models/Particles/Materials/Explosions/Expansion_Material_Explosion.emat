@@ -1,0 +1,12 @@
+Particle {
+ AlbedoMap "{6CAFE54454CEBE09}Helicrash_Models/Particles/Sprites/explosion.edds" 
+ Color 0 0 0 1
+ Diffuse 0.5255 0.5255 0.5255 1
+ Ambient 0 0 0 1
+ Emissive 1 1 1 0
+ Sort translucent
+ AlphaTest 0
+ BlendMode Additive_AlphaModulate
+ TileU 6
+ TileV 5
+}

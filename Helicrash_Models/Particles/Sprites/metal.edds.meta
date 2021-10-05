@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2AF527D91EE689A4}Helicrash_Models/Particles/Sprites/metal.edds"
+ Author "desktop-795a08b"
+ ChangeDate -591206281
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "metal.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{9BDE476E53F3C7AA}Helicrash_Models/Particles/Sprites/splash.edds"
+ Author "desktop-795a08b"
+ ChangeDate 330049655
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "splash.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

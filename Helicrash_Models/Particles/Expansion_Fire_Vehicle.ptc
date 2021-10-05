@@ -1,0 +1,189 @@
+EffectDef {
+ Emitors {
+  EmitorDef fire {
+   ShapeType Box
+   ConeAngle 360 0 20
+   MaxNum 80
+   BirthRate 9
+   Offset 0 0 0
+   Material "{26C2EA24B21B3FFB}Helicrash_Models/Particles/Materials/Explosions/Expansion_Material_Fire.emat"
+   CenterX -0.1
+   CenterY -0.1
+   SizeMultiplier 4
+   SizeRND 2
+   RandomRotDir 1
+   RandomAngle 1
+   Velocity 6
+   VelocityRND 2.5
+   GravityMultiply 0.2
+   Wind 1
+   AnimFPS 32
+   LifeTime 1
+   Alpha {
+    0 0 0.2247 1 0.48735 1 0.55655 0.12658 1 0
+   }
+   Size {
+    0 0 0.01786 1 1 1
+   }
+   EffectTime 1
+   ColorMast {
+    0 1 1 1 1 1 0.5949 0.6013
+   }
+  }
+  EmitorDef glow {
+   MaxNum 50
+   BirthRate 4
+   BirthRateVel 0.5
+   Material "{CB7AF4FD8ACBFDFC}graphics/Particles/materials/glow/glow1.emat"
+   SizeMultiplier 4
+   Velocity 1
+   GravityMultiply 0.2
+   LifeTime 0.5
+   Color {
+    0 1 0.8987 0.5253 0.1339 0.9241 0.7025 0 0.5543 0.9304 0.4304 0 1 0.3291 0 0
+   }
+   Alpha {
+    0 0.23418 1 0.24684
+   }
+   EffectTime 0.5
+  }
+  EmitorDef sparks {
+   ShapeType Box
+   ShapeSize 3.2 0 1.6
+   ConeAngle 360 0 90
+   MaxNum 15
+   BirthRate 8
+   BirthRateRND 20
+   Material "{CB7AF4FD8ACBFDFC}graphics/Particles/materials/glow/glow1.emat"
+   SizeMultiplier 0.1
+   Velocity 6
+   VelocityRND 1
+   AirResistance 0.5
+   LifeTime 0.7
+   Color {
+    0 1 1 0.2215 0.2016 1 0.8608 0.0063 0.744 1 0.4051 0 1 0.5949 0 0
+   }
+   EffectTime 1
+  }
+  EmitorDef smoke_middle {
+   ShapeType Box
+   ShapeSize 0.5 0 1.2
+   ConeAngle 360 0 30
+   MaxNum 200
+   BirthRate 2
+   BirthRateRND 0
+   Offset 0 -0.5 0
+   Material "{00BEA27443975BEB}graphics/Particles/materials/smoke/smoke_anim_02.emat"
+   SizeMultiplier 10
+   SizeRND 3
+   RandomRotDir 1
+   RotMultiplier 30
+   VelAngle 0
+   RandomAngle 0
+   Velocity 2
+   VelocityRND 0.5
+   AirResistance 0
+   AirResistanceRND 0.08
+   Wind 1
+   AnimOnce 0
+   AnimFPS 20
+   LifetimeByAnim 0
+   RandomFrame 0
+   LifeTime 10
+   LifeTimeRND 2
+   Color {
+    0 0.0392 0.0392 0.0392 0.1778 0.038 0.0316 0.0316 0.4033 0.0886 0.0886 0.0886 0.5699 0.0696 0.0759 0.0759 1 0.1 0.1 0.1
+   }
+   Alpha {
+    0 0 0.05 0.25 0.125 0.5 0.75 0.45 1 0
+   }
+   RotationSpeed {
+    0 0 0.60937 0.1962 0.89881 0.15823 1 0.0443
+   }
+   Size {
+    0 0.05 1 1
+   }
+  }
+  EmitorDef smoke_middle_normal_01 {
+   ShapeType Box
+   ShapeSize 0.5 0 1.2
+   ConeAngle 360 0 30
+   MaxNum 200
+   BirthRate 2
+   BirthRateRND 2
+   Offset 0 -0.5 0
+   Material "{5784934A1C87961A}graphics/Particles/materials/smoke/smoke_cloud_01_g_heliwreck_01.emat"
+   SizeMultiplier 10
+   SizeRND 3
+   RandomRotDir 1
+   RotMultiplier 40
+   VelAngle 0
+   RandomAngle 1
+   Velocity 2
+   VelocityRND 0.5
+   AirResistance 0
+   AirResistanceRND 0.08
+   Wind 1
+   AnimOnce 0
+   AnimFPS 30
+   LifetimeByAnim 0
+   RandomFrame 1
+   LifeTime 10
+   LifeTimeRND 2
+   Color {
+    0 0.0784 0.0784 0.0784 1 0.2 0.2 0.2
+   }
+   Alpha {
+    0 0 0.05 0.25 0.375 0.7 0.75 0.45 1 0
+   }
+   RotationSpeed {
+    0 0 0.60937 0.1962 0.89881 0.15823 1 0.0443
+   }
+   Size {
+    0 0.05 1 1
+   }
+  }
+  EmitorDef smoke_middle_normal_02 {
+   ShapeType Box
+   ShapeSize 0.5 0 1.2
+   ConeAngle 360 0 30
+   MaxNum 200
+   BirthRate 2
+   BirthRateRND 1
+   Offset 0 -0.5 0
+   Material "{80F33A254BC889F3}graphics/Particles/materials/smoke/smoke_cloud_01_b_heliwreck_01.emat"
+   SizeMultiplier 10
+   SizeRND 3
+   RandomRotDir 1
+   RotMultiplier 40
+   VelAngle 0
+   RandomAngle 1
+   Velocity 2
+   VelocityRND 0.5
+   AirResistance 0
+   AirResistanceRND 0.08
+   Wind 1
+   AnimOnce 0
+   AnimFPS 30
+   LifetimeByAnim 0
+   RandomFrame 1
+   LifeTime 10
+   LifeTimeRND 2
+   Color {
+    0 0.0983 0.0983 0.0983 0.575 0.2193 0.2193 0.2193 1 0.2021 0.2021 0.2021
+   }
+   Alpha {
+    0 0 0.05 0.3 0.325 0.75 0.75 0.35 1 0
+   }
+   RotationSpeed {
+    0 0 0.60937 0.1962 0.89881 0.15823 1 0.0443
+   }
+   Size {
+    0 0.05 1 1
+   }
+   ColorMast {
+    0 0 0 0 1 0 0 0
+   }
+  }
+ }
+}

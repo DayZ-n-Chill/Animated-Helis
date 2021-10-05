@@ -1,0 +1,5 @@
+//<'HelicrashAnimated.pbo' properties via Mikero's dos tools, dll version 8.26>
+product=dayz ugc;
+prefix=HelicrashAnimated;
+//PboType=Arma Addon;
+//</properties>

@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Helicrash_Models\data\mi17_rotor_blur.rvmat
+//Produced from mikero's Dos Tools Dll version 7.79
+//https://mikero.bytex.digital/Downloads
+//'now' is Sat Sep 26 21:15:19 2020 : 'file' last modified on Sat Sep 26 21:14:21 2020
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {0,0,0,1};
+specularPower = 1;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";

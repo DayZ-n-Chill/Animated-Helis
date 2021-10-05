@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{6CAFE54454CEBE09}Helicrash_Models/Particles/Sprites/explosionsoft.edds"
+ Author "desktop-795a08b"
+ ChangeDate 777021559
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "explosionsoft.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

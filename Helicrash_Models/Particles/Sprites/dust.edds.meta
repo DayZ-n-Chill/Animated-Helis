@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{DCC3BDC4ED4BE73C}Helicrash_Models/Particles/Sprites/dust.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1492478070
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "dust.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

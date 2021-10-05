@@ -1,0 +1,9 @@
+Particle {
+ AlbedoMap "{DF7C29C342EF81B1}Helicrash_Models/Particles/Sprites/snow.edds" alpha 
+ Color 0 0 0 1
+ Diffuse 0.5255 0.5255 0.5255 1
+ Ambient 0 0 0 1
+ Emissive 1 1 1 0
+ Sort translucent
+ BlendMode Additive_AlphaModulate
+}

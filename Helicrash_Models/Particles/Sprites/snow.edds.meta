@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{DF7C29C342EF81B1}Helicrash_Models/Particles/Sprites/snowdense.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1570105462
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "snowdense.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

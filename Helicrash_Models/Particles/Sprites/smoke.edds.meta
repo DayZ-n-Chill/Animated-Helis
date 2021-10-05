@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{CCC2BDC4ED4BE73C}Helicrash_Models/Particles/Sprites/smoke.edds"
+ Author "desktop-795a08b"
+ ChangeDate 1981098117
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "smoke.tga"
+   FormatCompress Copy
+   ConversionQuality 1
+   Swizzling TerrainLayerTexture
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

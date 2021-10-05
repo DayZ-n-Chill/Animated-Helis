@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{EE3CC94548E6DBC7}Helicrash_Models/Particles/Sprites/drop01.edds"
+ Author "desktop-795a08b"
+ ChangeDate -666589066
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "drop01.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

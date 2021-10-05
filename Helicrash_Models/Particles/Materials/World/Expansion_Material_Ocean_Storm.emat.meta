@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{52820612B43B2E7B}Helicrash_Models/Particles/Materials/World/Expansion_Material_Ocean_Storm.emat"
+ Author "desktop-795a08b"
+ ChangeDate 653125775
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}
